@@ -1,7 +1,7 @@
 # SNFluxSim: Supernova Flux Simulation for Type Ia Models
 
 ## Overview
-This project models the **gamma-ray flux evolution in Type Ia Supernovae (SNe Ia)**, focusing on energy deposition from **Nickel-56 (\(^{56}Ni\)) and Cobalt-56 (\(^{56}Co\)) decay**. The simulation implements **core-shell and spherical ejecta models** to analyze how flux propagation changes with different structural assumptions.
+This project models the **gamma-ray flux evolution in Type Ia Supernovae (SNe Ia)**, focusing on energy deposition from **Nickel-56 and Cobalt-56 decay**. The simulation implements **core-shell and spherical ejecta models** to analyze how flux propagation changes with different structural assumptions.
 
 ## Features
 - **Numerical simulation of supernova flux** from radioactive decay over time.
