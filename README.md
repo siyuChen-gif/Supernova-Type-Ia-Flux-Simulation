@@ -11,11 +11,11 @@ This project models the **gamma-ray flux evolution in Type Ia Supernovae (SNe Ia
 
 ## Methodology
 1. **Ejecta Expansion:**  
-   - The supernova ejecta expands over time as \( a = a_0 + v_0 t \).  
+   - The supernova ejecta expands over time as a = a_0 + v_0*t.  
    - Different ejecta structures (core-shell vs. spherical) affect gamma-ray escape.  
 
 2. **Radioactive Decay Modeling:**  
-   - \(^{56}Ni \rightarrow ^{56}Co \rightarrow ^{56}Fe \) decay chain.  
+   - Ni-56 to Co-56 to Fe-56 decay chain.  
    - Flux computed via **integration over ejecta regions**.  
 
 3. **Numerical Integration:**  
